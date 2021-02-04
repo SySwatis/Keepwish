@@ -1,6 +1,6 @@
 {
   "name": "syswatis/keepwish",
-  "version": "1.0.0",
+  "version": "v1.0",
   "description": "Keep wishlist items",
   "type": "magento2-module",
   "license": "OSL-3.0",
